@@ -55,6 +55,8 @@ docker-compose up
   - dnsmasq version 2.81-r0
 - 2.81-r1
   - dnsmasq version 2.81-r1
+- 2.82-r0
+  - Auto update to 2.82-r0
 <!--CHANGE-LOG-END-->
 
 ### License
