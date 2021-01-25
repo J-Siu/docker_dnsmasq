@@ -43,7 +43,7 @@ docker-compose up
 
 ### Repository
 
-- [docker_compose](https://github.com/J-Siu/docker_dnsmasq)
+- [docker_dnsmasq](https://github.com/J-Siu/docker_dnsmasq)
 
 ### Contributors
 
