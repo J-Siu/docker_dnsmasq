@@ -59,6 +59,8 @@ docker-compose up
   - Auto update to 2.82-r0
 - 2.83-r0
   - Auto update to 2.83-r0
+- 2.84-r0
+  - Auto update to 2.84-r0
 <!--CHANGE-LOG-END-->
 
 ### License
