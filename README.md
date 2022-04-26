@@ -65,6 +65,8 @@ docker-compose up
   - Auto update to 2.85-r2
 - 2.86-r2
   - Auto update to 2.86-r2
+- 2.86-r2-p1
+  - Add docker push github workflow
 <!--CHANGE-LOG-END-->
 
 ### License
