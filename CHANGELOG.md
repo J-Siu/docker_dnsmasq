@@ -1,0 +1,24 @@
+- 2.81-r0
+  - dnsmasq version 2.81-r0
+- 2.81-r1
+  - dnsmasq version 2.81-r1
+- 2.82-r0
+  - Auto update to 2.82-r0
+- 2.83-r0
+  - Auto update to 2.83-r0
+- 2.84-r0
+  - Auto update to 2.84-r0
+- 2.85-r2
+  - Auto update to 2.85-r2
+- 2.86-r2
+  - Auto update to 2.86-r2
+- 2.86-r2-p1
+  - Add docker push github workflow
+- 2.89-r2
+  - Auto update to 2.89-r2
+- 2.89-r5
+  - Auto update to 2.89-r5
+- 2.90-r3
+  - Auto update to 2.90-r3
+- 2.91-r0
+  - Auto update to 2.91-r0

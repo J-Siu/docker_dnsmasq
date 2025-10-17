@@ -1,8 +1,5 @@
 # Docker - dnsmasq [![Paypal donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?business=HZF49NM9D35SJ&no_recurring=0&currency_code=CAD)
 
-### Table Of Content
-<!-- TOC -->
-
 - [Build](#build)
 - [Usage](#usage)
   - [Host Directories and Volume Mapping](#host-directories-and-volume-mapping)
@@ -10,10 +7,9 @@
   - [Compose](#compose)
 - [Repository](#repository)
 - [Contributors](#contributors)
-- [Change Log](#change-log)
 - [License](#license)
 
-<!-- /TOC -->
+<!--more-->
 
 ### Build
 
@@ -63,34 +59,6 @@ docker-compose up
 ### Contributors
 
 - [John Sing Dao Siu](https://github.com/J-Siu)
-
-### Change Log
-
-- 2.81-r0
-  - dnsmasq version 2.81-r0
-- 2.81-r1
-  - dnsmasq version 2.81-r1
-- 2.82-r0
-  - Auto update to 2.82-r0
-- 2.83-r0
-  - Auto update to 2.83-r0
-- 2.84-r0
-  - Auto update to 2.84-r0
-- 2.85-r2
-  - Auto update to 2.85-r2
-- 2.86-r2
-  - Auto update to 2.86-r2
-- 2.86-r2-p1
-  - Add docker push github workflow
-- 2.89-r2
-  - Auto update to 2.89-r2
-- 2.89-r5
-  - Auto update to 2.89-r5
-- 2.90-r3
-  - Auto update to 2.90-r3
-- 2.91-r0
-  - Auto update to 2.91-r0
-<!--CHANGE-LOG-END-->
 
 ### License
 
