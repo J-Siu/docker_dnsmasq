@@ -24,3 +24,5 @@
   - Auto update to 2.91-r0
 - 2.92-r0
   - Auto update to 2.92-r0
+- 2.92_p2-r0
+  - Auto update to 2.92_p2-r0

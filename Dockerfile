@@ -1,5 +1,5 @@
 FROM alpine:edge
-ARG VERSION="2.92-r0"
+ARG VERSION="2.92_p2-r0"
 LABEL version=${VERSION}
 LABEL maintainers="[John Sing Dao Siu](https://github.com/J-Siu)"
 LABEL name="dnsmasq"
